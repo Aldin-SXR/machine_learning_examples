@@ -53,5 +53,5 @@ https://deeplearningcourses.com/c/unsupervised-machine-learning-hidden-markov-mo
 Deep Learning: Recurrent Neural Networks in Python
 https://deeplearningcourses.com/c/deep-learning-recurrent-neural-networks-in-python
 
-Advanced Natural Language Processing: Deep Learning in Python
+Advanced Natural Language Processing: Deep Learning in Python  
 https://deeplearningcourses.com/c/natural-language-processing-with-deep-learning-in-python
